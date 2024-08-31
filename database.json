@@ -1,0 +1,26 @@
+{
+ "Owners": [
+  "767071880816361492",
+  "1091668525812289606",
+  "635385803002085377",
+  "1059760626295132210",
+  "1059760626295132210"
+ ],
+ "BankId": "1091668525812289606",
+ "ProBotId": "282859044593598464",
+ "Products": [
+  {
+   "productName": "88",
+   "productPrice": "1800",
+   "productLink": "https://discord.gg/qjbW9ban"
+  },
+  {
+   "productName": "تست",
+   "productPrice": "100",
+   "productLink": "https://discord.gg/qjbW9ban"
+  }
+ ],
+ "BannedUsers": [
+  "1059760626295132210"
+ ]
+}
